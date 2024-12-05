@@ -17,7 +17,7 @@ public class Menu {
         panel.setLayout(null);
         frame.add(panel);
 
-        JLabel titleLabel = new JLabel("Deposito Unidrink´s");
+        JLabel titleLabel = new JLabel("Gestão de Bebidas");
         titleLabel.setBounds(150, 20, 200, 30);
         panel.add(titleLabel);
 
